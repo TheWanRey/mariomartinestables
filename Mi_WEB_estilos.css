@@ -947,6 +947,9 @@ body {
     .contact-info-icon-text {
         text-align: center;
     }
+    .cursor {
+        display: none;
+    }
 }
 
 /* Estilos para pantallas de móvil */
@@ -990,6 +993,9 @@ body {
     }
     .contact-info-icon-text {
         text-align: center;
+    }
+    .cursor {
+        display: none;
     }
 }
 
